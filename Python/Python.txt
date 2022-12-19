@@ -1,0 +1,39 @@
+# String-Collection of character inside single and double quotes
+
+you can use sigle quote inside double quote
+                 or 
+you can use double qoute inside single quote
+
+
+#Escape Sequnce
+
+\'    Single Quote
+\\"    Double Quote
+\\    backslash
+\n    New Line
+\t   tab
+\B   backspace
+
+-----------------Exercise-------------------
+
+# // this is Double backslash
+
+print(" this is \\\\ Double backslash")
+
+# this is /\/\/\/\ Mountain
+
+print("this is /\\/\\/\\/\\ Mountain ")
+
+#He is   Awesome
+
+print("He is\tAwesome")
+
+#\" \n \t \'
+
+print(' \\" \\n \\t  \\\' ')
+
+-----------------Shortcut--------------
+
+# print(" line A \n Line B")
+
+print(r"Line A \n line B")
